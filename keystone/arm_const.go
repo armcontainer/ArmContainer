@@ -1,0 +1,7 @@
+package keystone
+
+const (
+	ERR_ASM_ARM_INVALIDOPERAND Error = 512
+	ERR_ASM_ARM_MISSINGFEATURE Error = 513
+	ERR_ASM_ARM_MNEMONICFAIL   Error = 514
+)
